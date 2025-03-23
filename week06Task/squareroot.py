@@ -5,8 +5,7 @@
 # Set the input as float
 num = float(input("Please enter a positive floating point number: "))
 
-# Define & Create the function to calculate the square root
-
+# Define & Create the function to calculate the square root of the inputed number
 def sqrt(num, tolerance=1e-6): # function is defined with def keyword (See W3Schools: https://www.w3schools.com/python/python_functions.asp)
     if num < 0: # Value error check to ensure the input is a positive number. (See ChatGPT: https://chatgpt.com/share/67d300bd-1bc4-8011-983a-ea145d9632af
         raise ValueError("Input must be a positive number:")

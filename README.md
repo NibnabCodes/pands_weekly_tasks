@@ -1,4 +1,4 @@
-# Programming and Scripting Weekly Tasks
+                    # <b>Programming and Scripting Weekly Tasks</b>
 
 This repository contains my weekly task submissions for the programming and scripting module.
 
@@ -43,10 +43,25 @@ Task Description:
 Tech Used:
 Sources: https://chatgpt.com/share/67c48614-133c-8011-97f4-d427a4568b8a
 
-## Week06Task - 
+## Week06Task - Functions
 Task Description:
 
 Tech Used:
 Sources:
 
-Sources: 
+
+## Week07Task - Files
+Task Description:
+
+Chat GPT:
+
+"The purpose of a program that takes a filename from an argument on the command line is to allow users to specify which file the program should process without modifying the program's code. This approach provides flexibility and automation, especially in command-line environments."
+
+https://chatgpt.com/c/67e01176-aaac-8011-8e6a-a10c63cb4844
+
+Tech Used:
+Sources:
+
+## Week08Task - Plotting
+
+Matplotlib & Numpy
