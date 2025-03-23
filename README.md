@@ -1,4 +1,4 @@
-                    # <b>Programming and Scripting Weekly Tasks</b>
+# <h1 align="center"><b>Programming and Scripting Weekly Tasks</b></h1>
 
 This repository contains my weekly task submissions for the programming and scripting module.
 
@@ -55,7 +55,7 @@ Task Description:
 
 Chat GPT:
 
-"The purpose of a program that takes a filename from an argument on the command line is to allow users to specify which file the program should process without modifying the program's code. This approach provides flexibility and automation, especially in command-line environments."
+> "The purpose of a program that takes a filename from an argument on the command line is to allow users to specify which file the program should process without modifying the program's code. This approach provides flexibility and automation, especially in command-line environments."
 
 https://chatgpt.com/c/67e01176-aaac-8011-8e6a-a10c63cb4844
 
