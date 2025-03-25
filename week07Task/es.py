@@ -53,8 +53,8 @@ def count_e(textfile):
         print(f"An unexpected error occurred: {e}")
 
 # Ensure there is exactly one command-line argument for the filename
+# See: https://realpython.com/if-name-main-python/
 if __name__ == "__main__": 
-
 # https://www.geeksforgeeks.org/how-to-use-sys-argv-in-python/
     if len(sys.argv) != 2: #len() method returns the number of items in an object.
 #See: https://www.w3schools.com/python/ref_func_len.asp
