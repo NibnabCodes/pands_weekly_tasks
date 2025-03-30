@@ -3,7 +3,8 @@
 # and a plot of the function, h(x)=x3, in the range 0 - 10, on the one set of axes. 
 # Author: Niamh Hogan
 
-# Import NumPy to generate random numbers, to create the range of x & y values for the function h(x)=x3, and to calculate the mean and SD of the normal distribution
+# Import NumPy to generate random numbers, to create the range of x & y values for the function h(x)=x3,
+# and to calculate the mean and SD of the normal distribution
 import numpy as np
 
 # Import Matplotlib to plot data
@@ -11,10 +12,12 @@ import matplotlib.pyplot as plt
 
 
 # Set the seed for reproducibility
-# See Stack Overflow for explanation of np.random.seed: https://stackoverflow.com/questions/21494489/what-does-np-random-seed0-do
+# See Stack Overflow for explanation of np.random.seed:
+# https://stackoverflow.com/questions/21494489/what-does-np-random-seed0-do
 np.random.seed(1) 
 
-# Generate 1000 random numbers, with a mean of 5 and standard deviation of 2, for the normal distribution
+# Generate 1000 random numbers, with a mean of 5 and standard deviation of 2, 
+# for the normal distribution
 # See Offical NumPy documentation for np.random.normal: https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html
 normData = np.random.normal(loc=5, scale=2, size=1000)
 

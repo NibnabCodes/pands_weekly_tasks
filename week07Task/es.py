@@ -2,7 +2,8 @@
 # A program that reads in a text file and outputs the number of 'e' & 'E's' it contains.
 # The program reads the file in utf-8 encoding to avoid any encoding errors.
 # The program takes the filename from an argument on the command line. 
-# Extra: The program also deals with the following errors: no argument, filename that does not exist, or is not a text file, and any other unexpected errors.
+# The program also deals with the following errors: 
+# no argument, filename that does not exist, or is not a text file, and any other unexpected errors.
 # Author: Niamh Hogan
 
 import sys #import sys module to access command line arguments.
