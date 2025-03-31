@@ -1,5 +1,6 @@
 # helloWorld.py
-# This program prints out Hello World! to the user.
+# This program prints out Hello World! when run.
+
 # author: Niamh Hogan
 
 # Python print () function, prints out a series of characters (string)
