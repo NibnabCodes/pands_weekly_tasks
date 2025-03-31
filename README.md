@@ -1,5 +1,7 @@
 # <h1 align="center"><b>Programming and Scripting Weekly Tasks</b></h1>
 
+![Alt text](images/python-Hello.png)
+
 This repository contains my weekly task submissions for the programming and scripting module.
 
 Author: Niamh Hogan
