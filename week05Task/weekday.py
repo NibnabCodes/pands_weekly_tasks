@@ -1,6 +1,5 @@
 # weekday.py
 # This program outputs whether or not today is a weekday.
-# Source Used: https://chatgpt.com/share/67c48614-133c-8011-97f4-d427a4568b8a
 # author: Niamh Hogan
 
 # Import the datetime module
@@ -14,3 +13,7 @@ if today.weekday() < 5:
     print("Yes, unfortunately today is a weekday.")
 else:
     print("It is the weekend, yay!")
+
+# can be modified to log Friday as a weekday (< 4)
+
+# Source Used: https://chatgpt.com/share/67c48614-133c-8011-97f4-d427a4568b8a

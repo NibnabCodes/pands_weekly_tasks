@@ -1,7 +1,7 @@
 # bank.py
 # This program asks the user to input two amounts in cent.
 # It then prints out the sum of these with a euro sign 
-# and decimal point between the euro and cent of the amount 
+# and decimal point between the euro and cent of the amount.
 # author: Niamh Hogan 
 
 # create two variables to store user input
@@ -15,7 +15,7 @@ amount2 = int(input('Enter amount2 (in cent): '))
 # in this case, we want to take the input as an integer (cents),
 # therefore, we use typecasting by using the int() function. 
 # The int() function converts the input to an integer
-# See Geeks for Geeks for information on the input() function:
+# See Geeks for Geeks for information on the int() & input() function:
 # https://www.geeksforgeeks.org/python-input-function/
 
 
