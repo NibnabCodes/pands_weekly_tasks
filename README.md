@@ -55,11 +55,9 @@ Sources:
 ## Week07Task - Files
 Task Description:
 
-Chat GPT:
 
-> "The purpose of a program that takes a filename from an argument on the command line is to allow users to specify which file the program should process without modifying the program's code. This approach provides flexibility and automation, especially in command-line environments."
-
-https://chatgpt.com/c/67e01176-aaac-8011-8e6a-a10c63cb4844
+how to run: 
+enter: python es.py "Brave New World Full Text.txt" on command line
 
 Tech Used:
 Sources:

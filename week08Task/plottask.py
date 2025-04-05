@@ -19,7 +19,8 @@ import matplotlib.pyplot as plt
 # https://stackoverflow.com/questions/21494489/what-does-np-random-seed0-do
 np.random.seed(1) 
 
-# Generate 1000 random numbers, with a mean of 5 and standard deviation of 2, 
+# Generate 1000 random numbers, with 
+# a mean of 5 and standard deviation of 2 
 # for the normal distribution
 # See Offical NumPy documentation for np.random.normal:
 # https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html
@@ -31,7 +32,8 @@ normData = np.random.normal(loc=5, scale=2, size=1000)
 lilac = '#C8A2C8'
 cyan = '#00FFFF'
 
-# Create x values for h(x) = x^3 in the range 0 to 10
+# Create x values for h(x) = x^3 
+# in the range 0 to 10
 # See Official NumPy documentation for np.array: 
 # https://numpy.org/doc/stable/reference/generated/numpy.array.html
 x = np.array(range(0, 11))
