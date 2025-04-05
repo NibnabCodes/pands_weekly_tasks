@@ -26,7 +26,7 @@ else:
 # week as an integer (Mon = 0, Sun = 6)
 # See geeks for geeks for weekday() function:
 # https://www.geeksforgeeks.org/python-datetime-weekday-method-with-example/
-# # The if statement checks if today is a 
+# The if statement checks if today is a 
 # weekday & prints result if it is correct.
 # In this case, today is a weekday if it
 # is less than 5 (Mon = 0, Sun = 6).
