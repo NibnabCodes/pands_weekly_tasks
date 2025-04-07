@@ -8,6 +8,8 @@
 # and prints an error message if the input
 # is not a positive integer.
 
+# author: Niamh Hogan
+
 # Create a variable that takes in a positive integer
 # and stores it as an integer 
 number = int(input("Please enter a positive integer: "))

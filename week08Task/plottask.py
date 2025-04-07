@@ -5,6 +5,7 @@
 # and Standard deviation (SD)=2 
 # and a plot of the function, h(x)=x3, 
 # in the range 0 - 10, on the one set of axes. 
+
 # Author: Niamh Hogan
 
 # Import NumPy to generate random numbers, 

@@ -8,6 +8,7 @@
 # The program also deals with the following errors: 
 # no argument, filename that does not exist, 
 # or is not a text file, and any other unexpected errors.
+
 # Author: Niamh Hogan
 
 # import sys module to access 

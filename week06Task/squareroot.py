@@ -5,6 +5,7 @@
 # utilizing the Newton method.
 # The program returns a ValueError if
 # the input is a negative number.
+
 # author: Niamh Hogan
 
 # Create a variable that takes in &

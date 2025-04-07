@@ -8,8 +8,9 @@
 # numbers of any length
 # and outputs the account number with the last 4 digits 
 # displayed and the rest replaced with Xs.
-# This is a useful program that 
-# can be used to mask account numbers for security purposes.
+# These programs are useful as they can 
+# be used to mask account numbers for security purposes.
+
 # author: Niamh Hogan
 
 # Ask the user to input a 10 digit account number
@@ -21,7 +22,8 @@ account_number = input("Please enter a 10 digit account number: ")
 # which converts the first 6 digits to Xs
 account_number = account_number.replace(account_number[:6], "XXXXXX")
 
-# The replace() function replaces the first 6 characters with Xs 
+# The replace() function replaces 
+# the first 6 characters with Xs 
 # using the slice syntax. 
 # See W3schools for replace() function: 
 # https://www.w3schools.com/python/ref_string_replace.asp

@@ -1,6 +1,7 @@
 # weekday.py
 # This program outputs whether or not today is a weekday
 # without user input.
+
 # author: Niamh Hogan
 
 # Import the datetime module
