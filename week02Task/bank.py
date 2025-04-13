@@ -3,7 +3,7 @@
 # two amounts in cent. It then prints 
 # out the sum of these with a euro sign 
 # and decimal point between the euro
-#  and cent of the amount.
+# and cent of the amount.
 
 # author: Niamh Hogan 
 
@@ -48,10 +48,12 @@ print(f"The sum of these is €{newAmount/100:.2f}")
 # and to perform calculations within the curly brakets.
 # See geeks for Geeks for information on f-strings:
 # https://www.geeksforgeeks.org/formatted-string-literals-f-strings-python/
+
 # The / operator divides the newAmount 
 # by 100 to convert cents to euro.
 # See W3 Schools for Python operators:
 # https://www.w3schools.com/python/python_operators.asp
+
 # The : .2f formats the float amount 
 # to two decimal places.
 # See geeks for geeks for rounding to two decimal places:
