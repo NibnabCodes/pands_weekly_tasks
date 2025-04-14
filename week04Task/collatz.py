@@ -10,12 +10,12 @@
 
 # author: Niamh Hogan
 
-# Create a variable that takes in a positive integer
-# and stores it as an integer 
+# Create a variable that takes in a positive
+# integer and stores it as an int 
 number = int(input("Please enter a positive integer: "))
 
-# Create a value error check to ensure the input
-# is a positive integer.
+# Create a value error which checks to 
+# ensure the input is a positive integer.
 if number < 0:
     raise ValueError("Input must be a positive integer")
 
@@ -26,7 +26,7 @@ if number < 0:
 
 
 # Create a while loop that ends the program
-# if the number = 1
+# when the number = 1
 # divides number by 2, if even
 # and if odd, multiples it by 3
 # and adds 1
@@ -40,6 +40,7 @@ while number != 1:
 # as long as the condition is true
 # See W3Schools for while loops:
 # https://www.w3schools.com/python/python_while_loops.asp
+
 # The if statement executes if the conditon is true,
 # in this case, the number is divided by 2 if even.
 # The else statement executes when the if statement is false,
@@ -47,11 +48,13 @@ while number != 1:
 # is added if it is an odd number.
 # See geeks for geeks for if/else statement:
 # https://www.geeksforgeeks.org/python-if-else/
+
 # '!=' & '==' are comparison operators
 # != means not equal to
 # == means equal to
 # See geeks for geeks for comparison operators:
 # https://www.geeksforgeeks.org/relational-operators-in-python/
+
 # The % operator is the modulus operator
 # that returns the remainder of a division.
 # The // operator is the floor division operator

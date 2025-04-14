@@ -32,8 +32,8 @@ np.random.seed(1)
 
 
 # Create a variable that stores &
-# Generates 1000 random numbers, with 
-# mean=5 and standard deviation of 2 
+# generates 1000 random numbers, with 
+# mean=5 and standard deviation=2 
 # for the normal distribution
 normData = np.random.normal(loc=5, scale=2, size=1000)
 
@@ -88,7 +88,7 @@ plt.figure(figsize=(8, 5))
 
 # Define the colours for the histogram
 # See Official Matplotlib documentation 
-# for colours:
+# for colour ID's:
 # https://matplotlib.org/stable/users/explain/colors/colors.html
 lilac = '#C8A2C8'
 cyan = '#00FFFF'
@@ -100,7 +100,7 @@ plt.hist(normData, bins=10, color=lilac, edgecolor=cyan)
 # The first parameter contains the data 
 # to be plotted, the second parameter
 # specifies the number of bins, the 
-# third parameter soecifies the color of
+# third parameter specifies the color of
 # the bars & the fourth specifies the
 # colour of the bar edges.
 # See geeks for geeks for plt.hist():

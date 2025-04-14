@@ -4,7 +4,7 @@
 # with only the last 4 digits showing 
 # and the first 6 digits replaced with Xs.
 
-# The second program is modified to deal with account 
+# The second program deals with account 
 # numbers of any length
 # and outputs the account number with the last 4 digits 
 # displayed and the rest replaced with Xs.
@@ -27,6 +27,7 @@ account_number = account_number.replace(account_number[:6], "XXXXXX")
 # using the slice syntax. 
 # See W3schools for replace() function: 
 # https://www.w3schools.com/python/ref_string_replace.asp
+
 # The slice syntax returns a specified amount of characters 
 # from the string.
 # See W3schools for string slicing: 
@@ -50,6 +51,7 @@ x = len(account_number2) - 4
 # in the string.
 # See W3schools for len() function:
 # https://www.w3schools.com/python/ref_func_len.asp
+
 # The - operator subtracts 4 from the length 
 # of the account number.
 # See w3schools for subtraction operator:
@@ -61,7 +63,7 @@ x = len(account_number2) - 4
 # the required amount of times
 first_part = "X" * x
 
-# # See W3 Schools for multiplication operator:
+# See W3 Schools for multiplication operator:
 # https://www.w3schools.com/python/python_operators.asp
 
 # The last four digits of the account number are stored in the 
@@ -69,7 +71,7 @@ first_part = "X" * x
 last_four = account_number[-4:]
 
 # using negative indexing (e.g., -4) allows us to extract the 
-# last 4 digits of the acount number.
+# last 4 digits of the account number.
 # See W3schools for negative indexing:
 # https://www.w3schools.com/python/python_strings_slicing.asp
 

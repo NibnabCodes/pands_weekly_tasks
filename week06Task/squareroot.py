@@ -8,8 +8,8 @@
 
 # author: Niamh Hogan
 
-# Create a variable that takes in &
-# stores a positive floating point number
+# Create a variable that takes in 
+# a positive floating point number
 # typecast the input to a float
 num = float(input("Please enter a positive floating point number: "))
 
@@ -46,8 +46,8 @@ def sqrt(num, tolerance=1e-6):
 # See ChatGpt Prompt: 
 # "How do you create a python function that 
 # takes a positive floating-point number (float) as input
-# and outputs an approximation of its square root utilizing the Newton method.;
-# What is the tolerance level used for?""
+# and outputs an approximation of its square root utilizing the Newton method;
+# What is the tolerance level used for?"
 # https://chatgpt.com/share/67f14d10-47a0-8011-a3b0-91dfcb7395f1
 
 # Set the initial guess as half of the input number.

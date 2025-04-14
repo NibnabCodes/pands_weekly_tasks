@@ -1,8 +1,20 @@
+
+print ('Hello World!')
+
+
 # helloWorld.py
-# This program prints out 
-# Hello World! when run.
+# This is a simple program that
+# prints out 'Hello World!' when run.
 
 # author: Niamh Hogan
+
+# Use the print() function to print out
+# Hello World! when program is executed.
+print ('Hello World!')
+
+# or
+
+# print ("Hello World!")
 
 # Python print () function, prints out 
 # a series of characters (string)
@@ -10,12 +22,6 @@
 # single quotation marks.
 # See Real Python for information on the print() function:
 # https://realpython.com/python-print/
-
-print ('Hello World!')
-
-# or
-
-# print ("Hello World!")
 
 # Above code was adapted from Real Python:
 # https://realpython.com/python-print/

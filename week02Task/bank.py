@@ -32,14 +32,16 @@ newAmount = float (amount1 + amount2)
 # The float() function converts the input to float.
 # See Geeks for Geeks for information on the float() function:
 # https://www.w3schools.com/python/ref_func_float.asp
+
 # The + operator adds the two amounts together.
 # See W3 Schools for Python operators:
 # https://www.w3schools.com/python/python_operators.asp
 
 
-# print out the result of the two amounts added together
-# and converted to euro by dividing by 100,
-# with a euro sign and two decimal places.
+# print out the result of the two 
+# amounts added together and converted 
+# to euro by dividing by 100,
+# with a euro sign to two decimal places.
 print(f"The sum of these is €{newAmount/100:.2f}")
 
 # The f-string is a way of formatting 

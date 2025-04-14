@@ -133,7 +133,7 @@ if __name__ == "__main__":
 # command-line arguments passed to the script.
 # Here we do not want to count the script name itself,
 # so we check if the length is equal to 2.
-# If the is not exactly one command-line argument,
+# If there is not exactly one command-line argument,
 # we print the usage message.
 # If there is one command-line argument,
 # we call the function count_e()
