@@ -8,8 +8,6 @@
 # numbers of any length
 # and outputs the account number with the last 4 digits 
 # displayed and the rest replaced with Xs.
-# These programs are useful as they can 
-# be used to mask account numbers for security purposes.
 
 # author: Niamh Hogan
 

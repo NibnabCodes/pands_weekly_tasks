@@ -1,10 +1,10 @@
 # es.py
-# A program that reads in a text file and 
+# This program reads in a text file and 
 # outputs the amount of 'e' & 'E's' it contains.
-# The program reads the file in utf-8 encoding 
-# to avoid any encoding errors.
 # The program takes the filename from 
 # an argument on the command line. 
+# The program reads the file in utf-8 encoding 
+# to avoid any encoding errors
 # The program also deals with the following errors: 
 # no argument, filename that does not exist, 
 # or is not a text file, and any other unexpected errors.
@@ -61,6 +61,7 @@ def count_e(textfile):
 
 # The try: block lets you test a block of code for errors.
 # The except block lets you handle the error.
+# See Lines 99-109 for except block.
 # See W3 Schools for try/except:
 # https://www.w3schools.com/python/python_try_except.asp
 
@@ -122,6 +123,19 @@ if __name__ == "__main__":
     else: 
         count_e(sys.argv[1]) 
 
+# Chat GPT, Prompt:
+# "What is the purpose of a program that takes a filename 
+# from an argument on the command line?"
+# ChatGPT Response:
+# "The purpose of a program that takes a filename from 
+# an argument on the command line is to allow users to 
+# specify which file the program should process without 
+# modifying the program's code. 
+# This approach provides flexibility and automation, 
+# especially in command-line environments."
+# Link:
+# https://chatgpt.com/c/67e01176-aaac-8011-8e6a-a10c63cb4844
+
 # The __name__ variable is a built-in variable in Python.
 # It is used to determine if a Python script 
 # is being run directly or imported as a module.
@@ -140,18 +154,6 @@ if __name__ == "__main__":
 # with the filename as the argument.
 # https://www.geeksforgeeks.org/how-to-use-sys-argv-in-python/
 
-# Chat GPT, Prompt:
-# "What is the purpose of a program that takes a filename 
-# from an argument on the command line?"
-# ChatGPT Response:
-# "The purpose of a program that takes a filename from 
-# an argument on the command line is to allow users to 
-# specify which file the program should process without 
-# modifying the program's code. 
-# This approach provides flexibility and automation, 
-# especially in command-line environments."
-# Link:
-# https://chatgpt.com/c/67e01176-aaac-8011-8e6a-a10c63cb4844
 
 # This program was partially developed using AI, CHATGPT.
 # Prompt:
