@@ -5,9 +5,9 @@
 
 ## Overview
 
-This repository contains my 8 weekly task submissions as part of the assessment for the Programming and Scripting module at Atlantic Technological University - Galway.
+This repository contains eight weekly task submissions completed as part of the assessment requirements for the *Programming and Scripting* module at Atlantic Technological University – Galway.
 
-As a novice, the purpose of the weekly tasks was to improve on my ability to code in Python by solving my own solutions to problems that I had yet encountered.
+As a novice programmer, the primary objective of these tasks was to develop my proficiency in Python by independently formulating solutions to previously unseen problems, thereby reinforcing foundational programming concepts through practical application.
 
 Author: Niamh Hogan
 
@@ -15,7 +15,7 @@ Author: Niamh Hogan
 
 This repository is comprised of the following files and folders:
 
-* A **README** file that contains what problem each program solves, list of dependencies, how to: set up environment, download the repository & run the code.
+* A **README** file that contains the utility of each program, list of dependencies, how to: set up environment, download the repository & run the code.
 * An **images** folder that contains a .png file of a screenshot taken from my first Hello World program.
 * **Week01Task** - **week08Task** Folders  
   - Each folder contains a .py file containing the weekly task.  
@@ -115,11 +115,11 @@ To run the code in VS Code follow these steps:
 1. Open Terminal & input the following commands:  
 2. cd followed by the folder that the repository is stored in.
 3. cd pands_weekly_tasks - To access repository  
-4. cd to required folder & input python .py  
+4. cd to required folder, then input python nameofprogram.py  
   - For example: cd week01Task python helloworld.py  
 5. To run week07Task es.py:  
   - enter: python es.py "Brave New World Full Text.txt" on the command line
 6. To move between folders in the repository:  
-  - cd .. - To go up one directory. Each .. moves you up one directory
+  - cd .. - To go up one directory. - Each .. moves you up one directory
   - cd ..//.. - To go up two directories
 

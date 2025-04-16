@@ -50,8 +50,8 @@ x = len(account_number2) - 4
 # See W3schools for len() function:
 # https://www.w3schools.com/python/ref_func_len.asp
 
-# The - operator subtracts 4 from the length 
-# of the account number.
+# The - operator subtracts 4 from 
+# the length of the account number.
 # See w3schools for subtraction operator:
 # https://www.w3schools.com/python/python_operators.asp
 
