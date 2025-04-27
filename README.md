@@ -15,6 +15,7 @@ Author: Niamh Hogan
 
 This repository is comprised of the following files and folders:
 
+* A **.gitignore** file which contains all the files/folders to be ignored by Git in this repository.
 * A **README** file that contains the utility of each program, list of dependencies, how to: set up environment, download the repository & run the code.
 * An **images** folder that contains a .png file of a screenshot taken from my first Hello World program.
 * **Week01Task** - **week08Task** Folders  
