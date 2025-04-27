@@ -121,5 +121,7 @@ To run the code in VS Code follow these steps:
   - enter: python es.py "Brave New World Full Text.txt" on the command line
 6. To move between folders in the repository:  
   - cd .. - To go up one directory. - Each .. moves you up one directory
-  - cd ..//.. - To go up two directories
+  - cd ..//.. - To go up two directories  
 
+  ## References  
+  Please see .py files for references used
