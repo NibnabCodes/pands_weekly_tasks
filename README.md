@@ -108,7 +108,7 @@ https://github.com/NibnabCodes/pands_weekly_tasks
 
 The repository should now be accessible in VS Code & ready to execute.
 
-## How to Run the Code  
+## How to Run the Code
 
 To run the code in VS Code follow these steps:  
 

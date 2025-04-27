@@ -1,7 +1,3 @@
-
-print ('Hello World!')
-
-
 # helloWorld.py
 # This is a simple program that
 # prints out 'Hello World!' when run.
